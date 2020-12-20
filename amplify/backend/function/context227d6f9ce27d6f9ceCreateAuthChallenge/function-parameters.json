@@ -1,0 +1,16 @@
+{
+  "trigger": true,
+  "modules": [
+    "captcha-create-challenge"
+  ],
+  "parentResource": "context227d6f9ce27d6f9ce",
+  "functionName": "context227d6f9ce27d6f9ceCreateAuthChallenge",
+  "resourceName": "context227d6f9ce27d6f9ceCreateAuthChallenge",
+  "parentStack": "auth",
+  "triggerEnvs": [],
+  "triggerDir": "C:\\Users\\sk32m\\AppData\\Roaming\\npm\\node_modules\\@aws-amplify\\cli\\node_modules\\amplify-category-auth\\provider-utils\\awscloudformation\\triggers\\CreateAuthChallenge",
+  "triggerTemplate": "CreateAuthChallenge.json.ejs",
+  "roleName": "context227d6f9ce27d6f9ceCreateAuthChallenge",
+  "skipEdit": true,
+  "enableCors": false
+}

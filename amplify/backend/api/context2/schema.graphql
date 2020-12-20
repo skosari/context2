@@ -1,0 +1,13 @@
+type Transactions
+  @model
+  @auth(
+    rules: [{ 
+      allow: owner, 
+      queries: null, 
+      mutations: [create, update, delete] 
+    }]
+  ) {
+  id: ID!
+  text: String!
+  amount: Int!
+}

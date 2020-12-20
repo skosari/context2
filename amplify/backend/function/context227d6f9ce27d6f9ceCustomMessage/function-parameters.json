@@ -1,0 +1,25 @@
+{
+  "trigger": true,
+  "modules": [
+    "verification-link"
+  ],
+  "parentResource": "context227d6f9ce27d6f9ce",
+  "functionName": "context227d6f9ce27d6f9ceCustomMessage",
+  "resourceName": "context227d6f9ce27d6f9ceCustomMessage",
+  "parentStack": "auth",
+  "triggerEnvs": [
+    {
+      "key": "RESOURCENAME",
+      "value": "resourceName"
+    }
+  ],
+  "triggerDir": "C:\\Users\\sk32m\\AppData\\Roaming\\npm\\node_modules\\@aws-amplify\\cli\\node_modules\\amplify-category-auth\\provider-utils\\awscloudformation\\triggers\\CustomMessage",
+  "triggerTemplate": "CustomMessage.json.ejs",
+  "roleName": "context227d6f9ce27d6f9ceCustomMessage",
+  "skipEdit": true,
+  "REDIRECTURL": "https://context227d6f9ce-27d6f9ce",
+  "EMAILSUBJECT": "confirm context2 app",
+  "EMAILMESSAGE": "this works",
+  "RESOURCENAME": "resourceName",
+  "enableCors": false
+}

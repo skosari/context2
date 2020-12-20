@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-context2-dev-103350-authRole",
+      "UnauthRoleArn": "arn:aws:iam::558112658300:role/amplify-context2-dev-103350-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::558112658300:role/amplify-context2-dev-103350-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-context2-dev-103350-deployment",
+      "UnauthRoleName": "amplify-context2-dev-103350-unauthRole",
+      "StackName": "amplify-context2-dev-103350",
+      "StackId": "arn:aws:cloudformation:us-east-1:558112658300:stack/amplify-context2-dev-103350/6a96ec80-4096-11eb-bcd3-12ee986ec865",
+      "AmplifyAppId": "d5e2856bc8n18"
+    },
+    "categories": {
+      "function": {
+        "context227d6f9ce27d6f9ceDefineAuthChallenge": {},
+        "context227d6f9ce27d6f9ceCreateAuthChallenge": {},
+        "context227d6f9ce27d6f9ceVerifyAuthChallengeResponse": {
+          "RECAPTCHASECRET": "6LfWtgoaAAAAABIAcVVAxit-93k9Q_Cti2IJXhDw"
+        },
+        "context227d6f9ce27d6f9ceCustomMessage": {
+          "REDIRECTURL": "https://context227d6f9ce-27d6f9ce",
+          "EMAILSUBJECT": "confirm context2 app",
+          "EMAILMESSAGE": "this works"
+        }
+      },
+      "auth": {
+        "context227d6f9ce27d6f9ce": {}
+      }
+    }
+  }
+}
